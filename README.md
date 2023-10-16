@@ -6,7 +6,7 @@
 ```python
 ['ROCK', 'PAPER', 'SCISSOR']
 CHOOSE A COMMAND FROM THE ABOVE LIST!
-Please Enter Your Option
+Please Enter Your Option:
 ```
 
 <p>THIS IS HELPFUL FOR BEGINERS IN PYTHON(TO LEARN ABOUT 'if','else' statements)</P>
