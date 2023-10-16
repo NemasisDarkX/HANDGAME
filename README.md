@@ -1,6 +1,7 @@
 <div align="center">
  
 # ROCK,PAPER,SCISSOR
+</div>
 
 ```python
 ['ROCK', 'PAPER', 'SCISSOR']
